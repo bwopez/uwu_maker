@@ -3,7 +3,9 @@
 Have you ever felt like whatever you wrote needs to be a little cuter? Yeah, me neither. So I wrote a script for it. 
 
 Python script that takes text that is copied on the clipboard, changes the text to be more kawaii, and copies the new
-text onto the clipboard. I'm not even sure why I made this script.
+text onto the clipboard. I'm not even sure why I made this script. Inspired by
+<a href="https://chrome.google.com/webstore/detail/owo/jolaggjkdhhgcdhcjjhfkkbllefoggob?hl=en">OWO Chrome Extension</a>
+created by <a href="https://twitter.com/leafysweets">leafysweetgarden</a>
 
 # Getting Started
 
