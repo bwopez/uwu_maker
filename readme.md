@@ -9,7 +9,7 @@ created by <a href="https://twitter.com/leafysweets">leafysweetgarden</a>
 
 # Getting Started
 
-After getting the script you'll need to `pip install spotipy` and you'll be ready to run this script
+After getting the script you'll need to `pip install pyperclip` and you'll be ready to run this script
 
 # Usage
 
